@@ -1,0 +1,28 @@
+name: The Future of Liberty
+favicon: null
+layout_spectrum: 0.901452143676579
+typography_spectrum: 0.10753363370895386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9902246582787484
+  lightness: 0.6802445512730628
+  saturation: 0.9422186762094498
+  rhythmicContrast: 0.3229800136759877
+purpose: []
